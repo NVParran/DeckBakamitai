@@ -1,0 +1,11 @@
+{
+  "name": "Baka mitai"
+",
+  "description": "Baka mitai theme for the Steam Deck",
+  "author": "NVParran",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
